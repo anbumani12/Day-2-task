@@ -1,1 +1,1 @@
-Difference between the document and window objects in Javascript.
+ Difference between the document and window objects in Javascript.
